@@ -11,4 +11,9 @@ public class FirstClass {
         System.out.println("hello got project");
         System.out.println("hello got project");
     }
+
+    public void test1(){
+        int i=0;
+        i+=10;
+    }
 }
